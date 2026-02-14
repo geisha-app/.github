@@ -15,6 +15,7 @@ suite.
 | **Chef** | Recipe curation and cooking | [geisha.app/chef](https://gitlab.com/geisha.app/chef) |
 | **Grocer** | Shopping lists and inventory | [geisha.app/grocer](https://gitlab.com/geisha.app/grocer) |
 | **Courier** | News and RSS aggregation | [geisha.app/courier](https://gitlab.com/geisha.app/courier) |
+| **Herald** | Podcasts and internet radio | [geisha.app/herald](https://gitlab.com/geisha.app/herald) |
 | **Host** | Events and invitations | [geisha.app/host](https://gitlab.com/geisha.app/host) |
 | **Guide** | Place discovery | [geisha.app/guide](https://gitlab.com/geisha.app/guide) |
 | **Aide** | Task management | [geisha.app/aide](https://gitlab.com/geisha.app/aide) |
